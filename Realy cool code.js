@@ -1,0 +1,16 @@
+alert(" Press ok ")
+prompt("Who do you want to kill ")
+console.log('%c LOADING...', 'background: #222; color: Red');
+prompt("Are you sure? ")
+console.log('%c Killing...', 'background: #222; color: Red');
+alert(" Press ok ")
+console.log('%c Enter full name', 'background: #222; color: Blue');
+prompt("Enter full name ")
+console.log('%c Subject Killed', 'background: #222; color: Blue');
+prompt("Leave this blank ")
+alert(" Haha 😅 gacha!!! ")
+alert(" credits... ")
+alert(" Made by kai ")
+alert(" Idea made by my crapy brain  ")
+prompt("Leave this blank ")
+alert(" https://docs.google.com/document/d/1H7jieQxKX_UICCiVOwLNhM60kbzJj16if_An0zBmEzY/edit copy the URL to leave and paste it in the top seartch bar")
